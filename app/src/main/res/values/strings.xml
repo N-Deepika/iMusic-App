@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iMusic</string>
+    <string name="text">Music name</string>
+    <string name="music_image">Music name</string>
+</resources>
