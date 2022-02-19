@@ -1,5 +1,7 @@
 # iMusic App.
 
+## Where words fail, music speaks 
+
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Buddhad/iMusic-App)
 ![Contributors](https://img.shields.io/github/contributors/Buddhad/iMusic-App)
 ![Forks](https://img.shields.io/github/forks/Buddhad/iMusic-App)
@@ -32,4 +34,6 @@ Future updates will include features such as showing lyrics of the given song an
 ## How to Install and Run the Project
 
 To install, simply download the apk file in your Android device mentioned in the v1.Beta and start using it.
+
+![image](https://user-images.githubusercontent.com/66058598/154810174-b917d6fd-ef5c-4b71-8f14-4eeba6a81c2b.png)
 
